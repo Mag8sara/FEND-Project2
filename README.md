@@ -2,7 +2,6 @@
 
 ## Getting Started
 
-Game link: http://mag8sara.github.io/
 An interactive version of the Memory Game project. The user need to match two pair of card each time in order to win the game.
 
 ## Game Parts
