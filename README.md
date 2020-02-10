@@ -6,6 +6,7 @@ An interactive version of the Memory Game project. The user need to match two pa
 
 ## Game Parts
 
+* Shuffle cards randomly
 * Timer: Shows the time since the game has been started.
 * Moves: Shows the numbers of moves that user have made.
 * Stars: Shows the numbers of stars the user have gained.
